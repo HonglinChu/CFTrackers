@@ -43,4 +43,6 @@ https://www.bilibili.com/video/BV1q54y19799/
 
 # Toolkit
 
-https://github.com/HonglinChu/visual_tracker_benchmark  OTB类工具箱优化，支持多线程调参，支持单个视频精度曲线可视化，只要是Success和Precision评价指标的代码都适用
+https://github.com/HonglinChu/visual_tracker_benchmark  
+
+OTB类工具箱优化，支持多线程调参，支持单个视频精度曲线可视化，只要是Success和Precision评价指标的代码都适用
