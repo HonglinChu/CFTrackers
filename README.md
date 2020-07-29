@@ -1,12 +1,9 @@
 
 
-# :star2:WeChat:star2:
+# :star2:Welcome To Join Us !:star2:
 
 Some of the codes  have not been uploaded, and they will be updated in the future. In addition, welcome to join the CFTrackers  group, communicate together and make progress together!
-WeChat group QR code, updated weekly
 https://www.bilibili.com/video/BV1q54y19799/
-
-![image](https://github.com/HonglinChu/CFTrackers/tree/master/image/cf.jpg)
 
 ## Results
 
