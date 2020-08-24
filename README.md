@@ -14,16 +14,16 @@ Results:   BaiduYun: https://pan.baidu.com/s/1yt9u-LYP9so1ZdyzuHYogg password: 3
 
 ## Results
 
-![image](https://github.com/HonglinChu/CFTrackers/tree/master/image/p-2013.png)
+![image](./image/p-2013.png)
 
 
-![image](https://github.com/HonglinChu/CFTrackers/tree/master/image/s-2013.png)
+![image](./image/s-2013.png)
 
 
-![image](https://github.com/HonglinChu/CFTrackers/tree/master/image/p-2015.png)
+![image](./image/p-2015.png)
 
 
-![image](https://github.com/HonglinChu/CFTrackers/tree/master/image/s-2015.png)
+![image](./image/s-2015.png)
 
 ## Dataset
 
