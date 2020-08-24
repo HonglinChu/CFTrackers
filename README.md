@@ -1,8 +1,9 @@
+# CFTrackers
 
+![image](./image/CFTrackers.png)
 
-# :star2:Welcome To Join Us !:star2:
+## Description
 
-Some of the codes  have not been uploaded, and they will be updated in the future. In addition, welcome to join the CFTrackers  group, communicate together and make progress together!
 https://www.bilibili.com/video/BV1q54y19799/
 
 ## Download
@@ -74,3 +75,8 @@ Results:   BaiduYun: https://pan.baidu.com/s/1yt9u-LYP9so1ZdyzuHYogg password: 3
 
 - **VOT2018** link: https://pan.baidu.com/s/1G_uodEE5vTxwkGLqTtILwA password: l5y4 
 
+
+# :star2:Welcome To Join Us !:star2:
+
+Some of the codes  have not been uploaded, and they will be updated in the future. In addition, welcome to join the CFTrackers  group, communicate together and make progress together!
+![image](./image/wx.png)
