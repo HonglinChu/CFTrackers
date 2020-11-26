@@ -74,8 +74,3 @@ Results
 
 - **VOT2018-toolkit** [BaiduYun](https://pan.baidu.com/s/1crv4XSFK6zQp2LiZtJcrPw) password: xpkb 
 
-
-# :star2:Welcome To Join Us !:star2:
-
-Some of the codes  have not been uploaded, and they will be updated in the future. In addition, welcome to join the CFTrackers  group, communicate together and make progress together!
-![image](./image/wx.png)
